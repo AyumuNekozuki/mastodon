@@ -1,0 +1,22 @@
+body{
+  background-color: #444B5D;
+}
+
+main h1{
+  margin: 2.5rem auto;
+  text-align: center;
+  color: #E1F9FF;
+}
+
+main a{
+  margin: 5rem auto;
+  display: block;
+  text-align: center;
+  color: #CCCCCC;
+}
+
+footer{
+  margin: 2.5rem auto;
+  text-align: center;
+  color: #E1F9FF;
+}
